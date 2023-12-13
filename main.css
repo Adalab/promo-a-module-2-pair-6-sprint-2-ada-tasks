@@ -4,6 +4,7 @@
    position: relative;
    width: 100px;
    margin: 40vh auto;
+   border-radius: 50%; 
 
  }
  .face {
